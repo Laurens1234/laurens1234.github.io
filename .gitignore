@@ -1,0 +1,9 @@
+# No build step; keep repo clean
+.DS_Store
+Thumbs.db
+
+# If you add tooling later
+node_modules/
+
+# Editor
+.vscode/
